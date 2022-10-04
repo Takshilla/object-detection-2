@@ -1,0 +1,19 @@
+.heading{
+
+width:100%;
+font-size:large;
+margin-top:0px;
+}
+
+#back{
+    float:right;
+    margin-top:400px;
+    margin-right:10px;
+}
+
+canvas{
+
+box-shadow : 10px 10px 10px grey;
+border-radius: 10px;
+
+}
